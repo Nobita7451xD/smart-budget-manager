@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: smart-budget-manager
+    runtime: python
+    buildCommand: pip install -r web-requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT web_app:app
