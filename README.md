@@ -1,3 +1,4 @@
+<img width="857" height="878" alt="Screenshot 2026-08-09 010327" src="https://github.com/user-attachments/assets/af0bda5e-fdaa-4c51-81fd-c9792c72f0c2" />
  # Smart Budget Manager v1.0
 
 Single-window desktop finance tracker built with CustomTkinter and SQLite.
